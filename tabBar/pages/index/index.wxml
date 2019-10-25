@@ -1,4 +1,0 @@
-<view>
-<button bindtap='tab1'>进入tab1</button>
-<button bindtap='tab2'>进入tab2</button>
-</view>
